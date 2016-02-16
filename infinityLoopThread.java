@@ -1,3 +1,5 @@
+        //import android.os.Handler;
+        
         thread=new Thread(new Runnable() {
             @Override
             public void run() {
